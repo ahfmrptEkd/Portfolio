@@ -33,7 +33,7 @@
 
 |Title|Period|Description|Link|
 |:---:|:---:|:---|:---:|
-|**Stable Diffusion 기반 사진 I2I 서비스 MVP 개발**|2023.11 ~ 2023.12 (6 weeks)|User 의 Image를 학습한 후, 개인화와 더불어 생성 Image의 포즈와 색감을 더한 AI 스튜디오 프로필 사진을 만드는 프로젝트|[Link](404)|
+|**Stable Diffusion 기반 사진 I2I 서비스 MVP 개발**|2023.11 ~ 2023.12 (6 weeks)|User 의 Image를 학습한 후, 개인화와 더불어 생성 Image의 포즈와 색감을 더한 AI 스튜디오 프로필 사진을 만드는 프로젝트|[Link](https://github.com/ahfmrptEkd/Project_SD)|
 |**EDA : Refund Defense Analysis**|2023.05 ~ 2023.06 (3weeks)|기업 실제 연매출 데이터 분석을 통해 매출증진을 위한 기획 전략 프로젝트|[Link](https://github.com/ahfmrptEkd/Project_EDA)|
 
 <br/><br/><br/><br/>
