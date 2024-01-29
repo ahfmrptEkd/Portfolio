@@ -59,4 +59,4 @@
 
 |Title|Period|Description|Awards|Link|
 |:---:|:---:|:---:|:---:|:---:|
-|**제1회 국민대학교 AI 빅데이터 <br> 분석 경진대회 – 이력서 맞춤형 채용공고 추천 AI 모델 개발**|2023.10 ~ 2023.11 <br> (1 month)|User가 공고를 넣었던 Content 데이터를 가지고 유저에게 기업 공고를 추천하는 대회 <br> (DACON)|Top 10% 수상 (33/576)|[Link](404)|
+|**제1회 국민대학교 AI 빅데이터 <br> 분석 경진대회 – 이력서 맞춤형 채용공고 추천 AI 모델 개발**|2023.10 ~ 2023.11 <br> (1 month)|User가 공고를 넣었던 Content 데이터를 가지고 유저에게 기업 공고를 추천하는 대회 <br> (DACON)|Top 10% 수상 (33/576)|[Link](https://github.com/ahfmrptEkd/Competition_rs)|
