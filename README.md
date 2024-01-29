@@ -49,7 +49,7 @@
 
 |Title|Period|Description|Awards|Link|
 |:---:|:---:|:---:|:---:|:---:|
-|**ICR – Identifying Age – Related Conditions**|2023.05 ~ 2023.08 (3 months)|User의 나이와 관련된 특징들로 Age-Related Condition을 예측 문제를 해결하는 대회 <br> (Kaggle)|Top 13% 수상 (791/6431)|[Link](404)|
+|**ICR – Identifying Age – Related Conditions**|2023.05 ~ 2023.08 (3 months)|User의 나이와 관련된 특징들로 Age-Related Condition을 예측 문제를 해결하는 대회 <br> (Kaggle)|Top 13% 수상 (791/6431)|[Link](https://github.com/ahfmrptEkd/Competition_ICR)|
 
 <br/><br/>
 
