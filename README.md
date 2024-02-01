@@ -41,11 +41,11 @@
 ### Solo
 
 <br>
-
+<!--
 |Title|Period|Description|Link|
 |:---:|:---:|:---:|:---:|
 |**Anomaly Detection practice project**|...|내용 |링크|
-
+-->
 <br/><br/><br/><br/>
 
 ## Competition
