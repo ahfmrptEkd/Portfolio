@@ -40,6 +40,11 @@
 
 ### Solo
 
+|Title|Period|Description|Link|
+|:---:|:---:|:---:|:---:|
+|**Ren'py AI 연애 비주얼 노벨**|2023.12 ~ | 2차창작 AI 연동 연애시뮬레이터 게임 |[Link](https://github.com/ahfmrptEkd/ren-py_once-upon-broken-heart)|
+
+
 <br>
 <!--
 |Title|Period|Description|Link|
