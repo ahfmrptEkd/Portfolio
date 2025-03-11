@@ -51,9 +51,6 @@
 <br/><br/><br/><br/>
 
 ## Competition
-대회 Git 경우에는 code maintance 용도로 운용됩니다.
-
-<br/><br/>
 
 ### Team
 
