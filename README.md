@@ -39,18 +39,10 @@
 <br><br>
 
 ### Solo
-
-|Title|Period|Description|Link|
-|:---:|:---:|:---:|:---:|
-|**Ren'py AI 연애 비주얼 노벨**|2024.12 ~ | 2차창작 AI 연동 연애시뮬레이터 게임 |[Link](https://github.com/ahfmrptEkd/ren-py_once-upon-broken-heart)|
-
-
-<br>
 <!--
 |Title|Period|Description|Link|
 |:---:|:---:|:---:|:---:|
-|**Anomaly Detection practice project**|...|내용 |링크|
--->
+|**Ren'py AI 연애 비주얼 노벨**|2024.12 ~ | 2차창작 AI 연동 연애시뮬레이터 게임 |[Link](https://github.com/ahfmrptEkd/ren-py_once-upon-broken-heart)|-->
 
 |Title|Period|Description|Link|
 |:---:|:---:|:---:|:---:|
