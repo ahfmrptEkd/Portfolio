@@ -47,6 +47,7 @@ Personal Blog : "[블로그](https://ahfmrptekd.notion.site/ahfmrptEkd-Personal-
 
 |Title|Period|Description|Link|
 |:---:|:---:|:---:|:---:|
+|**게임 AI 탐색 알고리즘 구현과 최적화**|2025.03 ~ 2025.04 (3 weeks)|C++로 다양한 게임 환경(미로, 벽 미로, 2인용 게임 등)에서 Minimax, MCTS, A* 등 AI 탐색 알고리즘을 구현하고 최적화 및 <br> **Connect-Four**를 구현하고 AI와 play 하는 프로젝트|[Link](https://github.com/ahfmrptEkd/game_ai_search_algorithms)|
 |**LeetHub**|진행중|Leetcode Coding problem Study-plan|[Link](https://github.com/ahfmrptEkd/LeetHub)|
 
 <br/><br/><br/><br/>
