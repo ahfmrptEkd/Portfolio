@@ -51,6 +51,7 @@
 
 |Title|Period|Description|Awards|Link|
 |:---:|:---:|:---:|:---:|:---:|
+|**HAI(하이)! - Hecto AI Challenge : 2025 상반기 헥토 채용 AI 경진대회**|2025.05 ~ 2025.06 (1 month)|실제 중고차 차량 이미지를 기반으로 한 차종 <br> 분류 AI 모델 개발 대회 <br> (DACON)|Top 34% (255/748)|[Link](https://github.com/ahfmrptEkd/Competition_Car)|
 |**제1회 국민대학교 AI 빅데이터 <br> 분석 경진대회 – 이력서 맞춤형 채용공고 추천 AI 모델 개발**|2023.10 ~ 2023.11 <br> (1 month)|User가 공고를 넣었던 Content 데이터를 가지고 유저에게 기업 공고를 추천하는 대회 <br> (DACON)|Top 6% 수상 (33/576)|[Link](https://github.com/ahfmrptEkd/Competition_rs)|
 |**ICR – Identifying Age – Related Conditions**|2023.05 ~ 2023.08 (3 months)|User의 나이와 관련된 특징들로 Age-Related Condition을 예측 문제를 해결하는 대회 <br> (Kaggle)|Top 13% 수상 (791/6431)|[Link](https://github.com/ahfmrptEkd/Competition_ICR)|
 
