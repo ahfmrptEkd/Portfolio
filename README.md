@@ -34,7 +34,6 @@
 |**게임 AI 탐색 알고리즘 구현과 최적화**|2025.03 ~ 2025.04 (3 weeks)|C++로 다양한 게임 환경(미로, 벽 미로, 2인용 게임 등)에서 Minimax, MCTS, A* 등 AI 탐색 알고리즘을 구현하고 최적화 및 <br> **Connect-Four**를 구현하고 AI와 play 하는 프로젝트|[Link](https://github.com/ahfmrptEkd/game_ai_search_algorithms)|
 |**Stable Diffusion 기반 사진 I2I 서비스 MVP 개발**|2023.11 ~ 2023.12 (6 weeks)|User 의 Image를 학습한 후, 개인화와 더불어 생성 Image의 포즈와 색감을 더한 AI 스튜디오 프로필 사진을 만드는 <br> 프로젝트|[Link](https://github.com/ahfmrptEkd/Project_SD)|
 |**EDA : Refund Defense Analysis**|2023.05 ~ 2023.06 (3weeks)|기업 실제 연매출 데이터 분석을 통해 매출증진을 위한 기획 전략 <br> 프로젝트|[Link](https://github.com/ahfmrptEkd/Project_EDA)|
-|**LeetHub**|진행중|Leetcode Coding problem Study-plan|[Link](https://github.com/ahfmrptEkd/LeetHub)|
 
 <br> 
 
@@ -42,6 +41,8 @@
 |Title|Period|Description|Link|
 |:---:|:---:|:---:|:---:|
 |**LangChain and Single-Agent**|2025.07.06 ~ 07.20|LangChain, RAG 와 single-agent (간단한 에이전트)를 implement 하며 익히기 위한 <br> 스터디 목적의 프로젝트|[Link](https://github.com/ahfmrptEkd/LangChain_solo_agent)|
+|**LeetHub**|Always|Leetcode Coding problem Study-plan|[Link](https://github.com/ahfmrptEkd/LeetHub)|
+
 
 <br>
 <!--
