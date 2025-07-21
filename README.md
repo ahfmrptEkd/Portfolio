@@ -41,7 +41,7 @@
 ## Study
 |Title|Period|Description|Link|
 |:---:|:---:|:---:|:---:|
-|**LangChain and Single-Agent**|2025.07.06 ~ on-going|LangChain, RAG 와 single-agent (간단한 에이전트)를 implement 하며 익히기 위한 <br> 스터디 목적의 프로젝트|[Link](https://github.com/ahfmrptEkd/LangChain_solo_agent)|
+|**LangChain and Single-Agent**|2025.07.06 ~ 07.20|LangChain, RAG 와 single-agent (간단한 에이전트)를 implement 하며 익히기 위한 <br> 스터디 목적의 프로젝트|[Link](https://github.com/ahfmrptEkd/LangChain_solo_agent)|
 
 <br>
 <!--
