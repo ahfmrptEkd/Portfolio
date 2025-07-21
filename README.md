@@ -40,7 +40,7 @@
 ## Study
 |Title|Period|Description|Link|
 |:---:|:---:|:---:|:---:|
-|**LangChain and Single-Agent**|2025.07.06 ~ 07.20|LangChain, RAG 와 single-agent (간단한 에이전트)를 implement 하며 익히기 위한 <br> 스터디 목적의 프로젝트|[Link](https://github.com/ahfmrptEkd/LangChain_solo_agent)|
+|**LangChain and Single-Agent**|2025.07.06 ~ 07.20|LangChain와 LangGraph 기반 기본부터 고급 RAG/CAG/KAG 아키텍처 설계 및 <br> 멀티 에이전트 시스템 연구및 구현 프로젝트|[Link](https://github.com/ahfmrptEkd/LangChain_solo_agent)|
 |**LeetHub**|Always|Leetcode Coding problem Study-plan|[Link](https://github.com/ahfmrptEkd/LeetHub)|
 
 
