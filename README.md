@@ -41,6 +41,7 @@
 |Title|Period|Description|Link|
 |:---:|:---:|:---:|:---:|
 |**LangChain & LangGraph study**|2025.07.06 ~ 07.20|LangChain와 LangGraph 기반 기본부터 고급 RAG/CAG/KAG 아키텍처 설계,<br> prompt template 구축 및 <br> single 에이전트 시스템 구현 및 연구|[Link](https://github.com/ahfmrptEkd/LangChain_solo_agent)|
+|**HuggingFace MCP course**|2025.07.21 ~ |Hugging face의 official MCP learning course 의 Unit2 ~ Unit3을 공부하며 <br> 구현한 프로젝트 |[Link](https://github.com/ahfmrptEkd/HuggingFace_MCP)
 |**LeetHub**|Always|Leetcode Coding problem Study-plan|[Link](https://github.com/ahfmrptEkd/LeetHub)|
 
 
