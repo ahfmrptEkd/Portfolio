@@ -30,7 +30,7 @@
 
 |Title|Period|Description|Link|
 |:---:|:---:|:---:|:---:|
-|**LLM application for personal book curation**|2025.07.05 ~ <br> on-going|LLM, RAG 와 Google sheet mcp를 이용한 책 큐레이션 애플리케이션 프로젝트|[Link](https://github.com/ahfmrptEkd/Project_Curation)|
+|**LLM application for personal book curation**|2025.07.05 ~ <br> pause|LLM, RAG 와 Google sheet mcp를 이용한 책 큐레이션 애플리케이션 프로젝트|[Link](https://github.com/ahfmrptEkd/Project_Curation)|
 |**게임 AI 탐색 알고리즘 구현과 최적화**|2025.03 ~ 2025.04 (3 weeks)|C++로 다양한 게임 환경(미로, 벽 미로, 2인용 게임 등)에서 Minimax, MCTS, A* 등 AI 탐색 알고리즘을 구현하고 최적화 및 <br> **Connect-Four**를 구현하고 AI와 play 하는 프로젝트|[Link](https://github.com/ahfmrptEkd/game_ai_search_algorithms)|
 |**Stable Diffusion 기반 사진 I2I 서비스 MVP 개발**|2023.11 ~ 2023.12 (6 weeks)|User 의 Image를 학습한 후, 개인화와 더불어 생성 Image의 포즈와 색감을 더한 AI 스튜디오 프로필 사진을 만드는 <br> 프로젝트|[Link](https://github.com/ahfmrptEkd/Project_SD)|
 |**EDA : Refund Defense Analysis**|2023.05 ~ 2023.06 (3weeks)|기업 실제 연매출 데이터 분석을 통해 매출증진을 위한 기획 전략 <br> 프로젝트|[Link](https://github.com/ahfmrptEkd/Project_EDA)|
@@ -40,8 +40,9 @@
 ## Study
 |Title|Period|Description|Link|
 |:---:|:---:|:---:|:---:|
-|**LangChain & LangGraph study**|2025.07.06 ~ 07.20|LangChain와 LangGraph 기반 기본부터 고급 RAG/CAG/KAG 아키텍처 설계,<br> prompt template 구축 및 <br> single 에이전트 시스템 구현 및 연구|[Link](https://github.com/ahfmrptEkd/LangChain_solo_agent)|
-|**HuggingFace MCP course**|2025.07.20 ~ 2025.07.29 |Hugging face의 official MCP learning course 의 Unit2 ~ Unit3을 공부하며 <br> 구현한 프로젝트 |[Link](https://github.com/ahfmrptEkd/HuggingFace_MCP)
+|**HuggingFace Agent course**|2025.07.28 ~ 2025.08.09|Hugging face의 official Agent learning course 의 Agent를 공부하고 <br> 유명한 Agent framework(Smolagent, LlamaIndex, LangGraph)을 공부 <br> GAIA benchmark의 문제해결 하기 위한 Agent 구현한 프로젝트|[Link](https://github.com/ahfmrptEkd/HuggingFace_Agent)|
+|**HuggingFace MCP course**|2025.07.20 ~ 2025.07.29 |Hugging face의 official MCP learning course 의 Unit2 ~ Unit3을 공부<br>하며 구현한 프로젝트 |[Link](https://github.com/ahfmrptEkd/HuggingFace_MCP)
+|**LangChain & LangGraph study**|2025.07.06 ~ 07.20|LangChain와 LangGraph 기반 기본부터 고급 RAG/CAG/KAG 아키텍처 설계, prompt template 구축 및 <br> single 에이전트 시스템 구현 및 연구|[Link](https://github.com/ahfmrptEkd/LangChain_solo_agent)|
 |**LeetHub**|Always|Leetcode Coding problem Study-plan|[Link](https://github.com/ahfmrptEkd/LeetHub)|
 
 
