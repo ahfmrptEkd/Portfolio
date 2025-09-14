@@ -30,7 +30,8 @@
 
 |Title|Period|Description|Link|
 |:---:|:---:|:---:|:---:|
-|**LLM application for personal book curation**|2025.07.05 ~ <br> pause|LLM, RAG 와 Google sheet mcp를 이용한 책 큐레이션 애플리케이션 프로젝트|[Link](https://github.com/ahfmrptEkd/Project_Curation)|  
+|**LLM application for personal book curation**|2025.07.05 ~ <br> pause|LLM, RAG 와 Google sheet mcp를 이용한 책 큐레이션 애플리케이션 프로젝트|[Link](https://github.com/ahfmrptEkd/Project_Curation)|
+|**ConnectFour with AI**|2025.09.08 ~ 09.14|C++ AI 알고리즘을 Unity C#로 포팅한 3D Connect Four 게임. <br> 3가지 AI 난이도 구현 및 완전한 게임 시스템 개발을 통한 신속한 기술 전환 <br> 능력 증명|[Link](https://github.com/ahfmrptEkd/Connect4wAI)|
 |**HuggingFace Agent course**|2025.07.28 ~ 2025.08.09|Hugging face의 official Agent learning course 의 Agent를 공부하고 <br> 유명한 Agent framework(Smolagent, LlamaIndex, LangGraph)을 공부 <br> GAIA benchmark의 문제해결 하기 위한 Agent 구현한 프로젝트|[Link](https://github.com/ahfmrptEkd/HuggingFace_Agent)|
 |**HuggingFace MCP course**|2025.07.20 ~ 2025.07.29 |Hugging face의 official MCP learning course 의 Unit2 ~ Unit3을 공부<br>하며 구현한 프로젝트 |[Link](https://github.com/ahfmrptEkd/HuggingFace_MCP)
 |**LangChain & LangGraph study**|2025.07.06 ~ 07.20|LangChain와 LangGraph 기반 기본부터 고급 RAG/CAG/KAG 아키텍처 설계, prompt template 구축 및 <br> single 에이전트 시스템 구현 및 연구|[Link](https://github.com/ahfmrptEkd/LangChain_solo_agent)|
