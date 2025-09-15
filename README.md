@@ -3,12 +3,7 @@
  
 # 목차
 - [Project](#project)
-  + Team
-  + Solo
-
 - [Competition](#competition)
-  + Team
-  + Solo
 ---
 **Personal Blog : "[블로그](https://ahfmrptekd.notion.site/ahfmrptEkd-Personal-Blog-1749f7f2d1de8123b6c1c60726184bd0)"**
 
